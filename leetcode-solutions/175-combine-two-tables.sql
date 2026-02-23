@@ -1,7 +1,7 @@
 -- 175. Combine Two Tables
 -- https://leetcode.com/problems/combine-two-tables/
 -- Difficulty: Easy
--- Date: Feb 26, 2026
+-- Date: Feb 21, 2026
 -- Time taken: 5 minutes
 
 /*
