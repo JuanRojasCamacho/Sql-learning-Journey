@@ -1,4 +1,4 @@
-# Day 3 - LeetCode Progress (Feb 21, 2026)
+# Day 1 - LeetCode Progress (Feb 21, 2026)
 
 ## Problems Solved Today
 
