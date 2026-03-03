@@ -34,6 +34,14 @@
 - **Confidence**: 10/10
 - **Notes**: 
 
+### 4.- Patients with a condition (# 1527)
+- **Time taken**: 5
+- **Difficulty**: Easy
+- **Concept**: LIKE + OR
+- **Status**: Accepted
+- **Confidence**: 10/10
+- **Notes**: 
+
 ## Session Summary
 **Total problems**: 5/5 completed
 **Total time so far**: -- min
@@ -43,4 +51,4 @@
 2. GROUP CONCAT + STRING AGG
 3. Subquery + Dense_Rank()
 4. CASE + Subquery + MAX
-5. 
+5. LIKE + OR

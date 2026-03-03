@@ -4,7 +4,7 @@
 
 ### 1.-Employees whose manager left (#1978)
 - **Time taken**: 15 min
-- **Difficulty**: Medium
+- **Difficulty**: Easy
 - **Concept**: SELF JOIN + NULL + NOT NULL
 - **Status**: Accepted
 - **Confidence**: 9/10
@@ -18,7 +18,7 @@
 - **Confidence**: 10/10
 - **Notes**: Distinct goes inside COUNT
 
-### 3.- (#)
+### 3.-  Consecutive Numbers (#180)
 - **Time taken**: 15
 - **Difficulty**: Medium
 - **Concept**: NESTED SELECT + LAG + LAG(C,2)

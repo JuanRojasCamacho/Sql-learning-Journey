@@ -20,7 +20,7 @@
 
 ### 3.-Second Highest Salary (#595)
 - **Time taken**: 10 min
-- **Difficulty**: Easy
+- **Difficulty**: Medium
 - **Concept**: NESTED SELECT + DISTINC
 - **Status**: Accepted
 - **Confidence**: 8/10
