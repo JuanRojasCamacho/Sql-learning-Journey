@@ -34,7 +34,7 @@
 - **Confidence**: 9/10
 - **Notes**: A case inside a SUM is a very powerful tool
 
-### 4.- Trips and Users (# 262)
+### 5.- Trips and Users (# 262)
 - **Time taken**: 30
 - **Difficulty**: Hard
 - **Concept**: 2 AGG FUNCTIONS IN ONE GROUP + MATH BETWEENT THEM + SUM(CASE) + COUNT(*)
